@@ -1,0 +1,4 @@
+1、将installESD.dmg 转换成.iso文件，解压，提取basesystem.dmg
+
+2、将basesystem.dmg 转换成.iso文件
+
